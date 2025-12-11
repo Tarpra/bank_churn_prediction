@@ -91,7 +91,7 @@ To view the dashboard:
 
 ---
 
-## 🧠 Machine Learning Workflow
+##  Machine Learning Workflow
 
 The notebook covers:
 
@@ -105,7 +105,7 @@ The notebook covers:
 
 ---
 
-## 📦 Model Deployment
+##  Model Deployment
 
 The **app.py** file loads the trained ML model and exposes a simple web interface/API for predictions.
 
@@ -113,7 +113,7 @@ Users can input customer data and instantly get a prediction whether the custome
 
 ---
 
-## ✨ Key Skills Demonstrated
+##  Key Skills Demonstrated
 
 - Machine Learning  
 - Flask deployment  
@@ -125,7 +125,7 @@ Users can input customer data and instantly get a prediction whether the custome
 
 ---
 
-## 📫 Contact
+##  Contact
 
 For any questions or collaborations, feel free to reach out @tanwartarun1810@gmail.com !
 
